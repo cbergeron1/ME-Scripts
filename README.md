@@ -9,3 +9,11 @@ Scripts/Utilities:
 - Utilities
   - Combat Rotations
 - Daily Sandstone
+- Zuk Normal/Hard Mode
+- Vorkath
+- Clue Farming
+  - Easy
+  - Medium
+  - Hard
+  - Elite
+  - Master
